@@ -1,0 +1,5 @@
+/gestion-stock-pme-frontend/node_modules
+/gestion_stock_api/vendor
+/.env
+/.idea
+/storage/*
